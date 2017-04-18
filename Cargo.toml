@@ -1,0 +1,8 @@
+[package]
+name = "lex"
+version = "0.1.0"
+authors = ["Andy Gauge <andygauge@gmail.com>"]
+
+[dependencies]
+classifier = "0.0.3"
+curl = "0.4.6"
